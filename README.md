@@ -1,1 +1,1 @@
-#Amazon frontend clone
+Amazon frontend clone
